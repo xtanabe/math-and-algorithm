@@ -1,0 +1,22 @@
+{
+	"Code snippet for main": {
+		"prefix": "main",
+		"body": [
+		  "/**",
+		  " * author: eta",
+		  " * created: $CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+		  " */",
+		  "#include <bits/stdc++.h>",
+		  "",
+		  "using namespace std;",
+		  "",
+		  "int main() {",
+		  "    ios::sync_with_stdio(false);",
+		  "    cin.tie(0);",
+		  "",
+		  "    return 0;",
+		  "}"
+		],
+		"description": "Code snippet for main"
+	  }
+}
